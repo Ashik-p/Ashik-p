@@ -6,7 +6,7 @@ QA software engineer
 
 * 🌍  I'm based in San Francisco
 * ✉️  You can contact me at [ashikpanchkoti13@gmail.com](mailto:ashikpanchkoti13@gmail.com)
-* 🧠  I'm learning Tripleten QA software engineering program
+* 🧠  I'm learning QA software engineering program at [Tripleten](https://tripleten.com/qa-engineer)
 
 ### Skills
 
